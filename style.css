@@ -1,0 +1,50 @@
+body{
+
+    background-image: url("im2.jpg");
+    font-family: cursive;
+}
+h1{
+text-decoration: underline 4px ;
+margin-bottom: 30px;
+
+}
+.box {
+    border: 2px solid ;
+    background-color: rgb(202, 197, 197);
+    border-radius: 15px; 
+    padding: 20px; 
+    width: 320px; 
+    margin: 250px auto; 
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+#dateinput {
+    width: 100%; 
+    padding: 12px; 
+    box-sizing: border-box; 
+    margin-bottom: 15px;
+    font-size: 16px;
+    
+
+}
+.bt {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #FF5733;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    
+}
+.bt:hover {
+    background-color: #FF5733;
+    scale: 1.04;
+}
+.age {
+    
+    color: #FF5733;
+}
